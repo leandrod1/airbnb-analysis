@@ -1,7 +1,7 @@
 # Lisbon Airbnb Market Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/leandrod1/airbnb-analysis/blob/master/Get%20the%20CSVs%20from%20CSV%20inside%20of%20SQL.ipynb)
-[![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](revenue-per-host-with-notes.sql)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/leandro.soares5108/viz/Libro2_16847989419900/Dashboard1)
 [![Inside Airbnb](https://img.shields.io/badge/Dataset-Inside_Airbnb-20A4D2?style=flat-square&logo=airbnb&logoColor=white)](https://insideairbnb.com/)
 
