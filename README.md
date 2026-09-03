@@ -7,7 +7,7 @@
 
 An exploratory data analytics project investigating the short-term rental market in Lisbon, Portugal, using **Python**, **SQL**, and **Tableau Public**.
 
-![Tableau Dashboard Preview](URL_DE_UNA_CAPTURA_DE_TU_DASHBOARD)
+![Tableau Dashboard Preview](dashboard_preview.png)
 
 ---
 
