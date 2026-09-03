@@ -1,13 +1,57 @@
-## Airbnb Analysis
+# 📊 Lisbon Airbnb Market Analysis
 
-This project entails an exploratory data analytics analysis utilizing Airbnb data from the Lisbon area. The primary objectives are to investigate the following aspects:
-- Determine the count of accommodations with at least one day of availability over the past year.
-- Identify the geographical areas where these properties are situated.
-- Calculate the total earnings in the previous month and their corresponding average.
-- Assess the distribution of properties per host and their respective earnings.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/leandro.soares5108/viz/Libro2_16847989419900/Dashboard1)
 
-The data utilized in this project was sourced from [Inside Airbnb](http://insideairbnb.com/) and is divided into two parts. The initial step involved employing Python and Jupyter Notebook to extract the CSV data and store it within an SQL database. Subsequently, MySQL was utilized to extract the relevant data of interest, enabling a more focused and detailed analysis.
+An exploratory data analytics project investigating the short-term rental market in Lisbon, Portugal, using **Python**, **SQL**, and **Tableau Public**.
 
-__The results and analysis can be seen in this Tableau Viz: https://public.tableau.com/views/Libro2_16847989419900/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link__
+![Tableau Dashboard Preview](URL_DE_UNA_CAPTURA_DE_TU_DASHBOARD)
 
-The dataset utilized in this project pertains to the month of March 2023.
+---
+
+## 📌 Project Objectives
+
+The primary goal of this project is to analyze Airbnb listings in the Lisbon area by investigating four key aspects:
+
+1. **Availability:** Determine the count of accommodations with at least one day of availability over the past year.
+2. **Geographic Distribution:** Identify the geographical areas where these properties are situated across the region.
+3. **Financial Performance:** Calculate the total earnings generated in the previous month alongside their corresponding averages per property.
+4. **Host Dynamics:** Assess the distribution of properties per host and analyze their respective earnings.
+
+---
+
+## 💡 Key Highlights & Metrics
+
+* **Active Accommodations:** 18,478 listings with at least 1 available day in the past year.
+* **Geographical Distribution:** Mapped concentration of properties highlighting key clusters within Lisbon neighborhoods.
+* **Monthly Revenue:** €45.04M total earnings generated across all active properties in the last month.
+* **Averages & Prices:** Average nightly price of €130.61 and €2,437.49 average monthly earnings per property.
+* **Host Market Share:** Concentration analysis of top property managers (e.g., *Feels Like Home* leading with 261 listings).
+
+---
+
+## 🛠️ Data Pipeline & Workflow
+
+1. **Extraction & Ingestion (`Python / Jupyter Notebook`):**
+   * Source data extracted from [Inside Airbnb](https://insideairbnb.com/).
+   * Processed raw CSV files using Pandas and loaded them into a local MySQL database.
+
+2. **Data Transformation & Querying (`SQL`):**
+   * Filtered properties based on availability criteria.
+   * Queried revenue metrics, average prices, and host distribution counts using SQL.
+
+3. **Data Visualization (`Tableau Public`):**
+   * Built an interactive dashboard to present key financial KPIs, host rankings, and map-based geographic distribution.
+   * **[🔗 View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/leandro.soares5108/viz/Libro2_16847989419900/Dashboard1)**
+
+---
+
+## 🗓️ Dataset Info
+* **Source:** [Inside Airbnb](https://insideairbnb.com/) (Lisbon dataset March 2023)
+
+---
+
+## 👤 Author 
+
+Leandro Soares: [LinkedIn Profile](https://www.linkedin.com/in/leandro-soares-91912097/)
