@@ -5,7 +5,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/leandro.soares5108/viz/Libro2_16847989419900/Dashboard1)
 [![Inside Airbnb](https://img.shields.io/badge/Dataset-Inside_Airbnb-20A4D2?style=flat-square&logo=airbnb&logoColor=white)](https://insideairbnb.com/)
 
-An exploratory data analytics project investigating the short-term rental market in Lisbon, Portugal, using **Python**, **SQL**, and **Tableau Public**.
+An exploratory data analytics project investigating the short-term rental market in Lisbon, Portugal, using **Python**, **SQL**, and **Tableau**.
 
 ![Tableau Dashboard Preview](dashboard_preview.png)
 
